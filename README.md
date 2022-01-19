@@ -1,6 +1,7 @@
 ### Hello 👋 I am Myriem
 
-![2](https://user-images.githubusercontent.com/74598067/150181264-6e9ae675-5367-47d6-8601-85f6c9f3423f.png)
+![Web Developer](https://user-images.githubusercontent.com/74598067/150182656-cafd68e3-95d0-4c09-8919-1ad313fb0ea2.png)
+
 
 <!-- 
 - 🙋‍♂️ my portfolio https://myriemsl.dev
