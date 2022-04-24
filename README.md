@@ -1,6 +1,5 @@
 ### Hello 👋 
-### I am Myriem 
-### I am a FullStack Developer
+### "I code, therefore I am." -Myriem S.L
 #### My Portfolio https://myriemsl.dev
 
 
@@ -13,6 +12,10 @@
 
 
 <!-- 
+
+### I am Myriem 
+### I am a FullStack Developer
+
 
 - 🙋‍♂️ my portfolio https://myriemsl.dev
 - 🔭 I’m currently working on MERN Stack
