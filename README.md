@@ -1,4 +1,6 @@
-### Hello 👋 I am Myriem
+### Hello 👋 
+### I am Myriem 
+### I am a FullStack Developer
 #### My Portfolio https://myriemsl.dev
 
 
