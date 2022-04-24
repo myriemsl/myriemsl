@@ -6,9 +6,9 @@
 
 ---
 
-
+<div>
 <i class="devicon-react-original-wordmark colored"></i>
-
+</div>
 
 
 <!-- 
