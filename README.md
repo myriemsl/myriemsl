@@ -1,8 +1,8 @@
 ## Hello 👋 
 ### I am Myriem 
 ### I am a FullStack Developer
-#### "I code, therefore I am." -Myriem S.L
-##### My Portfolio https://myriemsl.dev
+### "I code, therefore I am." -Myriem S.L
+### My Portfolio https://myriemsl.dev
 
 
 
