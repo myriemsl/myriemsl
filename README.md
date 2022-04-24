@@ -4,8 +4,8 @@
 
 <div id="header" align="center">
   <h3>"I code, therefore I am smart."</h3>
-  <h5>-myriem s.l/h5>
-</div>
+  <h5>-myriem s.l</h5>
+</div><
 
 ---
 
