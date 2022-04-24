@@ -1,11 +1,16 @@
 ## Hello 👋 
 
-### My Portfolio https://myriemsl.dev
 
 <div id="header" align="center">
   <h3>"I code, therefore I am smart."</h3>
   <h5>-myriem s.l</h5>
-</div><
+</div>
+
+---
+
+#### :woman_technologist: About Me :
+I am Myriem.
+I am a FullStack developer.
 
 ---
 
