@@ -30,8 +30,8 @@
 </div>
 
 ---
-### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
