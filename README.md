@@ -7,7 +7,9 @@
 ---
 
 <div>
+  <img> 
 <i class="devicon-react-original-wordmark colored"></i>
+  </img>
 </div>
 
 
