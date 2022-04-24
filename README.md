@@ -1,13 +1,12 @@
 ## Hello 👋 
 
 ### My Portfolio https://myriemsl.dev
-![Web Developer](https://user-images.githubusercontent.com/74598067/150182656-cafd68e3-95d0-4c09-8919-1ad313fb0ea2.png)
 
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
@@ -29,9 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
 </div>
 
-
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
