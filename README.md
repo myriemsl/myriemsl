@@ -7,9 +7,6 @@
 
 
 
----
-
-### :hammer_and_wrench: Languages and Tools :
 
 <!-- 
 ![Web Developer](https://user-images.githubusercontent.com/74598067/150182656-cafd68e3-95d0-4c09-8919-1ad313fb0ea2.png)
