@@ -12,8 +12,8 @@
 I am Myriem.
 I am a Full Stack developer.
 
-- 🙋‍♂️ my portfolio https://myriemsl.dev
 - 🔭 I’m currently working on MERN Stack projects.
+- 🙋‍♂️ my portfolio https://myriemsl.dev
 - :mailbox:How to contact me: contact@myriemsl.dev
 
 
