@@ -10,7 +10,12 @@
 
 #### :woman_technologist: About Me :
 I am Myriem.
-I am a FullStack developer.
+I am a Full Stack developer.
+
+- 🙋‍♂️ my portfolio https://myriemsl.dev
+- 🔭 I’m currently working on MERN Stack projects.
+- :mailbox:How to contact me: contact@myriemsl.dev
+
 
 ---
 
