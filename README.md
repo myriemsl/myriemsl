@@ -29,6 +29,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
 </div>
 
+---
+### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- 
