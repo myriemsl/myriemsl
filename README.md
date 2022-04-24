@@ -2,7 +2,9 @@
 
 ### My Portfolio https://myriemsl.dev
 
-
+<div id="header" align="center">
+  <h3>"I code, therefore I am smart."</h3>
+</div>
 
 ---
 
@@ -29,7 +31,7 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
