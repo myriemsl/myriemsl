@@ -2,8 +2,8 @@
 
 
 <div id="header" align="center">
-  <h3>"I code, therefore I am smart."</h3>
-  <h5>-myriem s.l</h5>
+  <h2>"I code, therefore I am smart."</h2>
+  <h3>-myriem s.l</h3>
 </div>
 
 ---
