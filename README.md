@@ -1,10 +1,8 @@
 ## Hello 👋 
 
+### "I code, therefore I am smart." 
+#### -myriem s.l
 
-<div id="header" align="center">
-  <h3>"I code, therefore I am smart."</h3>
-  <h4>-myriem s.l</h4>
-</div>
 
 ---
 
