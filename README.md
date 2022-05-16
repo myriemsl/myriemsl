@@ -1,7 +1,7 @@
 ## Hello 👋 
 
 ### "I code, therefore I am smart." 
-#### -myriem s.l
+#### -Myriem SL
 
 
 ---
