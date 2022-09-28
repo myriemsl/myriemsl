@@ -9,11 +9,8 @@
 #### :woman_technologist: About Me :
 I am Myriem.
 I am a Software Developer.
-
-- I’m currently working on MERN Stack Projects.
-- 
 <!-- 
-🔭
+🔭 - I’m currently working on MERN Stack Projects.
 - 🙋‍♂️ My Portfolio https://myriemsl.dev
 - :mailbox:How to contact me: contact@myriemsl.dev
 -->
