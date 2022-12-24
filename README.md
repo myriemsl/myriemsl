@@ -1,14 +1,10 @@
 ## Hello 👋 
 
-### "I code, therefore I am smart." 
-#### -Myriem SL
-
-
----
-
 #### :woman_technologist: About Me :
 I am Myriem.
 I am a Software Developer.
+- 🙋‍♂️ My Portfolio https://myriemsl.dev
+
 <!-- 
 🔭 - I’m currently working on MERN Stack Projects.
 - 🙋‍♂️ My Portfolio https://myriemsl.dev
