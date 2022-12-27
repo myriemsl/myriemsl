@@ -3,6 +3,9 @@
 #### :woman_technologist: About Me :
 I am Myriem.
 I am a Software Developer.
+
+##### I code ideas and solve complex problems
+
 - 🙋‍♂️ My Portfolio https://myriemsl.dev
 
 <!-- 
