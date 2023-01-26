@@ -36,7 +36,7 @@ I am a Software Developer.
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriemsl&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myriemsl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
